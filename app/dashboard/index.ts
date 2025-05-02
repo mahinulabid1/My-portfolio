@@ -1,0 +1,10 @@
+export { HeroSection } from "@/app/dashboard/hero-section";
+export { AboutSection } from "@/app/dashboard/about-section";
+export { EducationSection } from "@/app/dashboard/education-section";
+export { ServicesSection } from "@/app/dashboard/services";
+export { SkillsSection } from "@/app/dashboard/skills-section";
+export { ProjectsSection } from "@/app/dashboard/projects-section";
+export { BlogSection } from "@/app/dashboard/blog-section";
+export { SectionCounter } from "@/app/dashboard/section-counter";
+export { AvailableForSection } from "@/app/dashboard/availble-for-section";
+export { ExperienceSection } from "@/app/dashboard/experience-section";
